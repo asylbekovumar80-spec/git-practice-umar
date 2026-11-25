@@ -1,6 +1,7 @@
 students = [
     {"name": "Alex", "grade": 3},
-    {"name": "Maria", "grade": 5}
+    {"name": "Maria", "grade": 5},
+    {"name": "Umar", "grade": 5}
 ]
 
 
@@ -10,3 +11,5 @@ def show_students():
 
 
 show_students()
+
+7
